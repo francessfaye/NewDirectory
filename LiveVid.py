@@ -47,4 +47,4 @@ while True:
         
 capture.release()
 cv2.destroyAllWindows()
-#END
+#END of all things
